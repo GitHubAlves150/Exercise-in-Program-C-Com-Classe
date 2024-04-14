@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1696037303 source:/home/lucas/Documentos/GitHub/Exercise-in-Program-C-Com-Classe/Estudo_de_caso_Umprograma_de_processamento_de_transacao/ClientData.cpp
+	"ClientData.hpp"
+	"Includes.hpp"
+	<string>
+
+1696037303 /home/lucas/Documentos/GitHub/Exercise-in-Program-C-Com-Classe/Estudo_de_caso_Umprograma_de_processamento_de_transacao/ClientData.hpp
+	<string>
+
+1696096319 /home/lucas/Documentos/GitHub/Exercise-in-Program-C-Com-Classe/Estudo_de_caso_Umprograma_de_processamento_de_transacao/Includes.hpp
+	<iostream>
+	<iomanip>
+	<fstream>
+	<string>
+	<cstring>
+	<cstdlib>
+
+1696209334 source:/home/lucas/Documentos/GitHub/Exercise-in-Program-C-Com-Classe/Estudo_de_caso_Umprograma_de_processamento_de_transacao/main.cpp
+	"Includes.hpp"
+	"ClientData.hpp"
+

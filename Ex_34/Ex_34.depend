@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1680892852 source:c:\users\lucas alves\documents\my_pc\exercise in program c++\ex_34\main.cpp
+	<iostream>
+	<iomanip>
+	"BasePlusComissionEmployee.hpp"
+
+1680892705 source:c:\users\lucas alves\documents\my_pc\exercise in program c++\ex_34\basepluscomissionemployee.cpp
+	<iostream>
+	"BasePlusComissionEmployee.hpp"
+
+1680892640 c:\users\lucas alves\documents\my_pc\exercise in program c++\ex_34\basepluscomissionemployee.hpp
+	<string>
+

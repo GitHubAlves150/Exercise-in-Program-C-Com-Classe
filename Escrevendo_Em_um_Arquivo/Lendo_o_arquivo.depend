@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1695677756 source:c:\users\lucas.alves\downloads\exercise-in-program-c-com-classe\escrevendo_em_um_arquivo\_main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<string>
+	<cstdlib>
+

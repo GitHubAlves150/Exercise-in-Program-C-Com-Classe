@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1680655422 source:c:\users\lucas alves\documents\my_pc\exercise in program c++\ex_32\sensvolt.cpp
+	<iostream>
+	"SensVolt.hpp"
+
+1680663758 c:\users\lucas alves\documents\my_pc\exercise in program c++\ex_32\sensvolt.hpp
+	<iostream>
+	<string>
+
+1680659623 source:c:\users\lucas alves\documents\my_pc\exercise in program c++\ex_32\main.cpp
+	<iostream>
+	<iomanip>
+	"SensCurrent.hpp"
+
+1680658960 c:\users\lucas alves\documents\my_pc\exercise in program c++\ex_32\senscurrent.hpp
+	<iostream>
+	<string>
+	"SensVolt.hpp"
+
+1680658995 source:c:\users\lucas alves\documents\my_pc\exercise in program c++\ex_32\senscurrent.cpp
+	<iostream>
+	"SensCurrent.hpp"
+

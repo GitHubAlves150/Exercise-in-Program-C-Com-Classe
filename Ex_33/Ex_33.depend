@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1680871547 source:c:\users\lucas alves\documents\my_pc\exercise in program c++\ex_33\main.cpp
+	<iostream>
+	<iomanip>
+	"Comission.hpp"
+
+1680870383 source:c:\users\lucas alves\documents\my_pc\exercise in program c++\ex_33\comission.cpp
+	<iostream>
+	"Comission.hpp"
+
+1680870637 c:\users\lucas alves\documents\my_pc\exercise in program c++\ex_33\comission.hpp
+	<string>
+

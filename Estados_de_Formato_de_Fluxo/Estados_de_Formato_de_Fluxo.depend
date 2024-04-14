@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1694355124 source:/home/lucas/Documentos/GitHub/Exercise-in-Program-C-Com-Classe/Estados_de_Formato_de_Fluxo/main.cpp
+	<iostream>
+	<iomanip>
+

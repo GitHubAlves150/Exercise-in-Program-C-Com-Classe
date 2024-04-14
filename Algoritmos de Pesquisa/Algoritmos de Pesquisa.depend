@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1697495231 source:c:\users\lucas.alves\downloads\exercise-in-program-c-com-classe\algoritmos de pesquisa\main.cpp
+	<iostream>
+	"AlgoritimoPesquisa.hpp"
+
+1697495534 source:c:\users\lucas.alves\downloads\exercise-in-program-c-com-classe\algoritmos de pesquisa\algoritimopesquisa.cpp
+	"AlgoritimoPesquisa.hpp"
+	<iostream>
+	<algorithm>
+	<iomanip>
+
+1697493651 c:\users\lucas.alves\downloads\exercise-in-program-c-com-classe\algoritmos de pesquisa\algoritimopesquisa.hpp
+	<vector>
+

@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1659212911 source:d:\cursos pagos wr kits\hotmart\c++, curso completo\módulo 04 ponteiros\c++m04a3__arrays_de_ponteiros\c++m04a3__wr__files\cartas\main.cpp
+	"cartas.hpp"
+
+1659204671 p"
+
+1659204641 d:\cursos pagos wr kits\hotmart\c++, curso completo\módulo 04 ponteiros\c++m04a3__arrays_de_ponteiros\c++m04a3__wr__files\cartas\cartas.hpp
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<ctime>
+
+1659204641 
+
+1659204671 source:d:\cursos pagos wr kits\hotmart\c++, curso completo\módulo 04 ponteiros\c++m04a3__arrays_de_ponteiros\c++m04a3__wr__files\cartas\cartas.cpp
+	"cartas.hpp"
+
+1659204671 source:/home/lucas/Downloads/C++M04A3__WR__files/cartas/cartas.cpp
+	"cartas.hpp"
+
+1659204641 /home/lucas/Downloads/C++M04A3__WR__files/cartas/cartas.hpp
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<ctime>
+
+1659212911 source:/home/lucas/Downloads/C++M04A3__WR__files/cartas/main.cpp
+	"cartas.hpp"
+
+1659204671 source:/home/lucas/Documents/ProgC++/cartas/cartas.cpp
+	"cartas.hpp"
+
+1659204641 /home/lucas/Documents/ProgC++/cartas/cartas.hpp
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<ctime>
+
+1659212911 source:/home/lucas/Documents/ProgC++/cartas/main.cpp
+	"cartas.hpp"
+

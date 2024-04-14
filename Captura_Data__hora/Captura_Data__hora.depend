@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1711587287 source:/home/desenvolvimento/Documents/GitHub/Exercise-in-Program-C-Com-Classe/Captura_Data__hora/main.cpp
+	<ctime>
+	<stdio.h>
+	<iostream>
+

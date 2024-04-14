@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1695204831 source:c:\users\lucas.alves\downloads\exercise-in-program-c-com-classe\acesso_aleatorio_em_arquivo\main.cpp
+	<iostream>
+	<fstream>
+	"Temperatura.hpp"
+	<cstdlib>
+
+1695120383 source:c:\users\lucas.alves\downloads\exercise-in-program-c-com-classe\acesso_aleatorio_em_arquivo\temperatura.cpp
+	"Temperatura.hpp"
+
+1695120365 c:\users\lucas.alves\downloads\exercise-in-program-c-com-classe\acesso_aleatorio_em_arquivo\temperatura.hpp
+
+1695476512 source:/home/lucas/Documentos/GitHub/Exercise-in-Program-C-Com-Classe/Acesso_Aleatorio_em_Arquivo/main.cpp
+	<iostream>
+	<fstream>
+	"Temperatura.hpp"
+	<cstdlib>
+
+1695476512 /home/lucas/Documentos/GitHub/Exercise-in-Program-C-Com-Classe/Acesso_Aleatorio_em_Arquivo/Temperatura.hpp
+
+1695476512 source:/home/lucas/Documentos/GitHub/Exercise-in-Program-C-Com-Classe/Acesso_Aleatorio_em_Arquivo/Temperatura.cpp
+	"Temperatura.hpp"
+

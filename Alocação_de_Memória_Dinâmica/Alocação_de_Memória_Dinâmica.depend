@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1694470539 source:c:\users\lucas.alves\downloads\exercise-in-program-c-com-classe\alocação_de_memória_dinâmica\main.cpp
+	<iostream>
+	<new>
+	<cstdlib>
+

@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1659204671 source:/home/lucas/Documents/ProgC++/cartas/cartas.cpp
+	"cartas.hpp"
+
+1659204641 /home/lucas/Documents/ProgC++/cartas/cartas.hpp
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<ctime>
+
+1659212911 source:/home/lucas/Documents/ProgC++/cartas/main.cpp
+	"cartas.hpp"
+

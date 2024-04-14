@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1693238714 source:c:\users\lucas.alves\downloads\exercise-in-program-c-com-classe\classearray\main.cpp
+	<iostream>
+	"Array.h"
+
+1693238697 c:\users\lucas.alves\downloads\exercise-in-program-c-com-classe\classearray\include\array.h
+	<iostream>
+
+1693238714 source:c:\users\lucas.alves\downloads\exercise-in-program-c-com-classe\classearray\src\array.cpp
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	"Array.h"
+

@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1710461347 source:c:\users\lucas.alves\downloads\exercise-in-program-c-com-classe\alocacaodinamica_exercicio\main.cpp
+	<iostream>
+	<new>
+	<cstdlib>
+	"newAlloc.hpp"
+
+1710460417 c:\users\lucas.alves\downloads\exercise-in-program-c-com-classe\alocacaodinamica_exercicio\newalloc.hpp
+	<new>
+
+1710460662 source:c:\users\lucas.alves\downloads\exercise-in-program-c-com-classe\alocacaodinamica_exercicio\newalloc.cpp
+	"newAlloc.hpp"
+	<iostream>
+	<new>
+	<cstdlib>
+

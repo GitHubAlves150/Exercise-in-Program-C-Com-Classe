@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1710544129 source:c:\users\lucas.alves\downloads\exercise-in-program-c-com-classe\alocacaodinamica_comprogrmacaodescomplicada\main.cpp
+	<iostream>
+	<cstring>
+

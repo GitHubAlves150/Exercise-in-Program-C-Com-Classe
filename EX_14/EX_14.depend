@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1673796955 source:c:\users\senor\documents\my_pc\exercise in program c++\ex_14\divtres.cpp
+	<iostream>
+	"Divtres.hpp"
+
+1673797175 c:\users\senor\documents\my_pc\exercise in program c++\ex_14\divtres.hpp
+	<iostream>
+	<iomanip>
+
+1673796955 source:c:\users\senor\documents\my_pc\exercise in program c++\ex_14\main.cpp
+	<iostream>
+	"Divtres.hpp"
+
+1673797175 source:c:\users\lucas alves\documents\my_pc\exercise in program c++\ex_14\divtres.cpp
+	<iostream>
+	"Divtres.hpp"
+
+1673797175 c:\users\lucas alves\documents\my_pc\exercise in program c++\ex_14\divtres.hpp
+	<iostream>
+	<iomanip>
+
+1673796955 source:c:\users\lucas alves\documents\my_pc\exercise in program c++\ex_14\main.cpp
+	<iostream>
+	"Divtres.hpp"
+

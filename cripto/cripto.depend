@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1699612961 source:c:\users\lucas.alves\downloads\exercise-in-program-c-com-classe\cripto\main.cpp
+	<iostream>
+	"cripto.hpp"
+
+1699613052 c:\users\lucas.alves\downloads\exercise-in-program-c-com-classe\cripto\cripto.hpp
+

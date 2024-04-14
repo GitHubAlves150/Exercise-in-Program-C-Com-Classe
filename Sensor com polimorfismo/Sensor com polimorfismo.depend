@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1584205420 source:c:\users\teste\documents\github\exercise-in-program-c-com-classe\sensor com polimorfismo\main.cpp
+	<iostream>
+
+1705978132 source:c:\users\teste\documents\github\exercise-in-program-c-com-classe\sensor com polimorfismo\mcugenerico.cpp
+	<iostream>
+	"MCUGenerico.hpp"
+
+1705977820 c:\users\teste\documents\github\exercise-in-program-c-com-classe\sensor com polimorfismo\mcugenerico.hpp
+	<string>
+

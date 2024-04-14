@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1711556512 source:c:\users\lucas\documents\github\processamentoarquivocsv\main.cpp
+	<iostream>
+	<cstdlib>
+	<iomanip>
+	<time.h>
+	<fstream>
+

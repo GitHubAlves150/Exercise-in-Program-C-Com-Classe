@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1694300111 source:/home/lucas/Documentos/GitHub/Exercise-in-Program-C-Com-Classe/ManipuladoresDeFluxos/main.cpp
+	<iostream>
+	<iomanip>
+	<ios>
+	"Manip.hpp"
+
+1694299943 source:/home/lucas/Documentos/GitHub/Exercise-in-Program-C-Com-Classe/ManipuladoresDeFluxos/Manip.cpp
+	"Manip.hpp"
+
+1694299530 /home/lucas/Documentos/GitHub/Exercise-in-Program-C-Com-Classe/ManipuladoresDeFluxos/Manip.hpp
+	"Manip.hpp"
+	<iostream>
+
+1694427325 source:c:\users\lucas.alves\downloads\exercise-in-program-c-com-classe\manipuladoresdefluxos\main.cpp
+	<iostream>
+	<iomanip>
+	<ios>
+	"Manip.hpp"
+
+1694427325 c:\users\lucas.alves\downloads\exercise-in-program-c-com-classe\manipuladoresdefluxos\manip.hpp
+	"Manip.hpp"
+	<iostream>
+
+1694427325 source:c:\users\lucas.alves\downloads\exercise-in-program-c-com-classe\manipuladoresdefluxos\manip.cpp
+	"Manip.hpp"
+
+1708184735 source:/home/desenvolvimento/Documents/GitHub/Exercise-in-Program-C-Com-Classe/ManipuladoresDeFluxos/main.cpp
+	<iostream>
+	<iomanip>
+	<ios>
+	"Manip.hpp"
+
+1708184735 /home/desenvolvimento/Documents/GitHub/Exercise-in-Program-C-Com-Classe/ManipuladoresDeFluxos/Manip.hpp
+	"Manip.hpp"
+	<iostream>
+
+1708184735 source:/home/desenvolvimento/Documents/GitHub/Exercise-in-Program-C-Com-Classe/ManipuladoresDeFluxos/Manip.cpp
+	"Manip.hpp"
+

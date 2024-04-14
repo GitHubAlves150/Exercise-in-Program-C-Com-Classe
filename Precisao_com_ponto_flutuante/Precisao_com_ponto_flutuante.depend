@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1708898184 source:/home/desenvolvimento/Documents/GitHub/Exercise-in-Program-C-Com-Classe/Precisao_com_ponto_flutuante/main.cpp
+	<iostream>
+	<iomanip>
+

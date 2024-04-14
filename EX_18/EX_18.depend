@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1674507993 source:c:\users\senor\documents\my_pc\exercise in program c++\ex_18\main.cpp
+	<cstdlib>
+	<iostream>
+	<string>
+	"func.hpp"
+
+1674504953 c:\users\senor\documents\my_pc\exercise in program c++\ex_18\func.hpp
+
+1674504982 source:c:\users\senor\documents\my_pc\exercise in program c++\ex_18\func.cpp
+	<iostream>
+	"func.hpp"
+

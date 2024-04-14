@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1699959150 source:c:\users\lucas.alves\downloads\exercise-in-program-c-com-classe\templat de pilha\main.cpp
+	<iostream>
+	"TemplateStack.hpp"
+
+1699958449 c:\users\lucas.alves\downloads\exercise-in-program-c-com-classe\templat de pilha\templatestack.hpp
+
+1700327415 source:/home/lucas/Documentos/GitHub/Exercise-in-Program-C-Com-Classe/Template de pilha/main.cpp
+	<iostream>
+	"TemplateStack.hpp"
+
+1700441332 /home/lucas/Documentos/GitHub/Exercise-in-Program-C-Com-Classe/Template de pilha/TemplateStack.hpp
+

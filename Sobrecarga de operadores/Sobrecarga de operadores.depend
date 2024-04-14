@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1708313425 source:/home/desenvolvimento/Documents/GitHub/Exercise-in-Program-C-Com-Classe/Sobrecarga de operadores/Geometria.cpp
+	<iostream>
+	"Geometria.hpp"
+
+1708275417 /home/desenvolvimento/Documents/GitHub/Exercise-in-Program-C-Com-Classe/Sobrecarga de operadores/Geometria.hpp
+
+1708275855 source:/home/desenvolvimento/Documents/GitHub/Exercise-in-Program-C-Com-Classe/Sobrecarga de operadores/main.cpp
+	<iostream>
+	"Geometria.hpp"
+

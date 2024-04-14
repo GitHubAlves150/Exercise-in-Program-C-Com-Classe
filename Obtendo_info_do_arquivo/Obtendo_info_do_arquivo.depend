@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1695685768 source:c:\users\lucas.alves\downloads\exercise-in-program-c-com-classe\escrevendo_em_um_arquivo\obtendo_info_do_arquivo\main.cpp
+	"Includes.hpp"
+
+1695685890 c:\users\lucas.alves\downloads\exercise-in-program-c-com-classe\escrevendo_em_um_arquivo\obtendo_info_do_arquivo\includes.hpp
+	<iostream>
+	<iomanip>
+	<fstream>
+	<string>
+	<cstdlib>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1711827535 source:/home/desenvolvimento/Documents/GitHub/Exercise-in-Program-C-Com-Classe/LendoArquivoCSv_campo_a_Campo/main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<string>
+

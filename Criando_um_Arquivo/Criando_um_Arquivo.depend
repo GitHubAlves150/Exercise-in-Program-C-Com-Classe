@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1694534118 source:c:\users\lucas.alves\downloads\exercise-in-program-c-com-classe\criando_um_arquivo\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+

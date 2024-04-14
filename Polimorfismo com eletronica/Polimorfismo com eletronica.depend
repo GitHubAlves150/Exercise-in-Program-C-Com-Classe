@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1707745331 source:c:\users\lucas.alves\downloads\exercise-in-program-c-com-classe\polimorfismo com eletronica\calculacomponente.cpp
+	<iostream>
+	"CalculaComponente.hpp"
+
+1707746490 c:\users\lucas.alves\downloads\exercise-in-program-c-com-classe\polimorfismo com eletronica\calculacomponente.hpp
+
+1707746549 source:c:\users\lucas.alves\downloads\exercise-in-program-c-com-classe\polimorfismo com eletronica\main.cpp
+	<iostream>
+	"CalculaComponente.hpp"
+	"Resisitor.hpp"
+
+1707746151 source:c:\users\lucas.alves\downloads\exercise-in-program-c-com-classe\polimorfismo com eletronica\resisitor.cpp
+	<iostream>
+	"Resisitor.hpp"
+
+1707746414 c:\users\lucas.alves\downloads\exercise-in-program-c-com-classe\polimorfismo com eletronica\resisitor.hpp
+	"CalculaComponente.hpp"
+
+1707746706 source:c:\users\lucas.alves\downloads\exercise-in-program-c-com-classe\polimorfismo com eletronica\capacitor.cpp
+	<iostream>
+	"Capacitor.hpp"
+
+1707746722 c:\users\lucas.alves\downloads\exercise-in-program-c-com-classe\polimorfismo com eletronica\capacitor.hpp
+	"CalculaComponente.hpp"
+

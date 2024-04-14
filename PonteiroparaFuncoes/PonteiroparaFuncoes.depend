@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1689528024 source:/home/lucas/Documents/GitHub/Exercise-in-Program-C++/PonteiroparaFuncoes/main.cpp
+	<iostream>
+	<math.h>
+

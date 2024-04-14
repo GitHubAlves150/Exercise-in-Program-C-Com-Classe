@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1690560683 source:c:\users\lucas.alves\downloads\exercise-in-program-c-com-classe\tropadoslanternas\tropdoslanternas\main.cpp
+	"ExpectroEmocional.h"
+
+1690560593 source:c:\users\lucas.alves\downloads\exercise-in-program-c-com-classe\tropadoslanternas\tropdoslanternas\src\expectro emocional.cpp
+	"ExpectroEmocional.h"
+
+1690559395 c:\users\lucas.alves\downloads\exercise-in-program-c-com-classe\tropadoslanternas\tropdoslanternas\include\expectro emocional.h
+	<iostream>
+	<string>
+
+1690560122 c:\users\lucas.alves\downloads\exercise-in-program-c-com-classe\tropadoslanternas\tropdoslanternas\include\expectroemocional.h
+	<iostream>
+	<string>
+	"ExpectroEmocional.h"
+

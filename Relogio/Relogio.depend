@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1675367491 source:c:\users\senor\documents\my_pc\exercise in program c++\relogio\main.cpp
+	<iostream>
+	"Relogio.hpp"
+
+1675368190 c:\users\senor\documents\my_pc\exercise in program c++\relogio\relogio.hpp
+
+1675368543 source:c:\users\senor\documents\my_pc\exercise in program c++\relogio\relogio.cpp
+	<iostream>
+	<iomanip>
+	"Relogio.hpp"
+

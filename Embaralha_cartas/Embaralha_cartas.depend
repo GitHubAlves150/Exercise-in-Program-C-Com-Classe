@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1689131470 source:/home/lucas/Documents/GitHub/Exercise-in-Program-C-/Embaralha_cartas/main.cpp
+	"cartas.h"
+	<iostream>
+	<cstdlib>
+	<ctime>
+
+1689131432 source:/home/lucas/Documents/GitHub/Exercise-in-Program-C-/Embaralha_cartas/src/cartas.cpp
+	<cstdlib>
+	<ctime>
+	"cartas.h"
+
+1689131380 /home/lucas/Documents/GitHub/Exercise-in-Program-C-/Embaralha_cartas/include/cartas.h
+	<cstdlib>
+	<ctime>
+

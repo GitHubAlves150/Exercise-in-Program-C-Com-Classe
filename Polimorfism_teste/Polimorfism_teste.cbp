@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Polimorfism_teste" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Polimorfism_teste" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Polimorfism_teste" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+<<<<<<< HEAD:Polimorfism_teste/Polimorfism_teste.cbp
+		<Unit filename="Base.cpp" />
+		<Unit filename="Base.hpp" />
+		<Unit filename="Derivada.cpp" />
+		<Unit filename="Derivada.hpp" />
+=======
+		<Unit filename="Account.cpp" />
+		<Unit filename="Account.hpp" />
+		<Unit filename="CheskingAccount.cpp" />
+		<Unit filename="CheskingAccount.hpp" />
+		<Unit filename="SavingAccount.cpp" />
+		<Unit filename="SavingAccount.hpp" />
+>>>>>>> ebcbfe3f8c6c03a96df731c176e955e3f83aba3e:Polimorfismo Exemplo/Polimorfismo Exemplo.cbp
+		<Unit filename="main.cpp" />
+		<Extensions />
+	</Project>
+</CodeBlocks_project_file>

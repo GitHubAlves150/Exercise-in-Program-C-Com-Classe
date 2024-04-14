@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1679623120 source:c:\users\lucas alves\documents\my_pc\exercise in program c++\ex_31\main.cpp
+	<iostream>
+	<iomanip>
+	"Funcao.hpp"
+
+1679617227 c:\users\lucas alves\documents\my_pc\exercise in program c++\ex_31\funcao.hpp
+	<iostream>
+	<string>
+
+1679623120 source:c:\users\lucas alves\documents\my_pc\exercise in program c++\ex_31\funcao.cpp
+	<iostream>
+	"Funcao.hpp"
+
+1680655422 source:c:\users\lucas alves\documents\my_pc\exercise in program c++\ex_31\sensvolt.cpp
+	<iostream>
+	"SensVolt.hpp"
+
+1679617227 c:\users\lucas alves\documents\my_pc\exercise in program c++\ex_31\sensvolt.hpp
+	<iostream>
+	<string>
+

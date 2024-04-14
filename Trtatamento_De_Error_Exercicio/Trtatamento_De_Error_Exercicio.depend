@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1694429775 source:c:\users\lucas.alves\downloads\exercise-in-program-c-com-classe\trtatamento_de_error_exercicio\main.cpp
+	<iostream>
+	<stdexcept>
+

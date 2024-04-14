@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1711379674 source:c:\users\lucas\documents\github\exercise-in-program-c-com-classe\processamentoarquivotxt\main.cpp
+	<iostream>
+	<cstdlib>
+	<fstream>
+	<iomanip>
+

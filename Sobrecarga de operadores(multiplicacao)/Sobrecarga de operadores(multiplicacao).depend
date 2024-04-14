@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1708275932 source:/home/desenvolvimento/Documents/GitHub/Exercise-in-Program-C-Com-Classe/Sobrecarga de operadores(multiplicacao)/main.cpp
+	<iostream>
+	"Escalar.hpp"
+
+1708275988 source:/home/desenvolvimento/Documents/GitHub/Exercise-in-Program-C-Com-Classe/Sobrecarga de operadores(multiplicacao)/Escalar.cpp
+	<iostream>
+	"Escalar.hpp"
+
+1708275348 /home/desenvolvimento/Documents/GitHub/Exercise-in-Program-C-Com-Classe/Sobrecarga de operadores(multiplicacao)/Escalar.hpp
+

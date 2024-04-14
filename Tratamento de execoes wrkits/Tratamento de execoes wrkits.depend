@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1710259865 source:c:\users\lucas.alves\downloads\exercise-in-program-c-com-classe\tratamento de execoes wrkits\main.cpp
+	<iostream>
+	"ArrayLimit.hpp"
+
+1710259386 c:\users\lucas.alves\downloads\exercise-in-program-c-com-classe\tratamento de execoes wrkits\arraylimit.hpp
+	<stdexcept>
+
+1710290594 source:/home/desenvolvimento/Documents/GitHub/Exercise-in-Program-C-Com-Classe/Tratamento de execoes wrkits/main.cpp
+	<iostream>
+	"ArrayLimit.hpp"
+
+1710290594 /home/desenvolvimento/Documents/GitHub/Exercise-in-Program-C-Com-Classe/Tratamento de execoes wrkits/ArrayLimit.hpp
+	<stdexcept>
+

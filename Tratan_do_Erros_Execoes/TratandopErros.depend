@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1694394266 source:/home/lucas/Documentos/GitHub/Exercise-in-Program-C-Com-Classe/TratandopErros/main.cpp
+	<iostream>
+	"ArrayLimit.h"
+
+1694391723 /home/lucas/Documentos/GitHub/Exercise-in-Program-C-Com-Classe/TratandopErros/include/ArrayLimit.h
+	<stdexcept>
+
+1694392023 source:/home/lucas/Documentos/GitHub/Exercise-in-Program-C-Com-Classe/TratandopErros/src/ArrayLimit.cpp
+	"ArrayLimit.h"
+

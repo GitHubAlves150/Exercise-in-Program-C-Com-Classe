@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1674914362 source:c:\users\senor\documents\my_pc\exercise in program c++\ex_27\main.cpp
+	<iostream>
+	"Adjust.hpp"
+
+1674914287 source:c:\users\senor\documents\my_pc\exercise in program c++\ex_27\adjust.cpp
+	<iostream>
+	<iomanip>
+	"Adjust.hpp"
+
+1674913081 c:\users\senor\documents\my_pc\exercise in program c++\ex_27\adjust.hpp
+	<iostream>
+

@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1709781724 source:/home/desenvolvimento/Documents/GitHub/Exercise-in-Program-C-Com-Classe/PI_SAida_Fluxo/main.cpp
+	<iostream>
+	<iomanip>
+	"Assento.hpp"
+
+1709781088 source:/home/desenvolvimento/Documents/GitHub/Exercise-in-Program-C-Com-Classe/PI_SAida_Fluxo/Assento.cpp
+	<string>
+	<cstring>
+	<stdlib.h>
+	<iostream>
+	<iomanip>
+	"Assento.hpp"
+
+1709781054 /home/desenvolvimento/Documents/GitHub/Exercise-in-Program-C-Com-Classe/PI_SAida_Fluxo/Assento.hpp
+
+1709850714 source:c:\users\lucas.alves\downloads\exercise-in-program-c-com-classe\pi_saida_fluxo\assento.cpp
+	<string>
+	<cstring>
+	<stdlib.h>
+	<iostream>
+	<iomanip>
+	"Assento.hpp"
+
+1709849820 c:\users\lucas.alves\downloads\exercise-in-program-c-com-classe\pi_saida_fluxo\assento.hpp
+
+1709850761 source:c:\users\lucas.alves\downloads\exercise-in-program-c-com-classe\pi_saida_fluxo\main.cpp
+	<iostream>
+	<iomanip>
+	"Assento.hpp"
+

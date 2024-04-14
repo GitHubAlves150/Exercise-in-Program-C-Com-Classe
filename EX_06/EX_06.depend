@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1672225977 source:c:\users\senor\documents\my_pc\exercise in program c++\ex_06\main.cpp
+	<iostream>
+	"library.hpp"
+
+1672140996 c:\users\senor\documents\my_pc\exercise in program c++\ex_06\library.hpp
+
+1672225977 source:c:\users\senor\documents\my_pc\exercise in program c++\ex_06\library.cpp
+	<iostream>
+	<cstdlib>
+	"library.hpp"
+

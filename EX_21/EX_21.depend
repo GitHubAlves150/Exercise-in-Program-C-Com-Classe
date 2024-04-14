@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1674605822 source:c:\users\senor\documents\my_pc\exercise in program c++\ex_21\ci555.cpp
+	"CI555.hpp"
+
+1674605822 c:\users\senor\documents\my_pc\exercise in program c++\ex_21\ci555.hpp
+	<iostream>
+
+1674605822 source:c:\users\senor\documents\my_pc\exercise in program c++\ex_21\main.cpp
+	"CI555.hpp"
+

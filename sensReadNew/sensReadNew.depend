@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1706281013 source:c:\users\teste\documents\github\exercise-in-program-c-com-classe\sensreadnew\main.cpp
+	<iostream>
+	<iomanip>
+	"senCurrent.hpp"
+	"senVolt.hpp"
+
+1706235077 c:\users\teste\documents\github\exercise-in-program-c-com-classe\sensreadnew\sencurrent.hpp
+	<string>
+	"senVolt.hpp"
+
+1706283178 c:\users\teste\documents\github\exercise-in-program-c-com-classe\sensreadnew\senvolt.hpp
+	<string>
+
+1706235188 source:c:\users\teste\documents\github\exercise-in-program-c-com-classe\sensreadnew\senvolt.cpp
+	<iostream>
+	"senVolt.hpp"
+
+1706065643 source:c:\users\teste\documents\github\exercise-in-program-c-com-classe\sensreadnew\sencurrent.cpp
+	<iostream>
+	"senCurrent.hpp"
+

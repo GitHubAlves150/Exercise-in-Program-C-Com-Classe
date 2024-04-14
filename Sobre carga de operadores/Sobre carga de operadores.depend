@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1584205420 source:c:\users\lucas.alves\downloads\exercise-in-program-c-com-classe\sobre carga de operadores\main.cpp
+	<iostream>
+
+1701081872 source:c:\users\lucas.alves\downloads\exercise-in-program-c-com-classe\sobre carga de operadores\operadores.cpp
+	"Operadores.hpp"
+	<iostream>
+
+1701081436 c:\users\lucas.alves\downloads\exercise-in-program-c-com-classe\sobre carga de operadores\operadores.hpp
+

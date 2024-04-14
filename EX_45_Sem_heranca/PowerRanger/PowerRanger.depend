@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1684374156 source:/home/lucas/Documents/GitHub/Exercise-in-Program-C-/EX_45/PowerRanger/main.cpp
+	<iostream>
+	<cstring>
+	"Mighty_Morphin.hpp"
+	"Ranger.hpp"
+
+1684371350 /home/lucas/Documents/GitHub/Exercise-in-Program-C-/EX_45/PowerRanger/Mighty_Morphin.hpp
+	<cstring>
+
+1684371429 source:/home/lucas/Documents/GitHub/Exercise-in-Program-C-/EX_45/PowerRanger/Mighty_Morphin.cpp
+	<iostream>
+	<cstring>
+	"Mighty_Morphin.hpp"
+
+1684374191 /home/lucas/Documents/GitHub/Exercise-in-Program-C-/EX_45/PowerRanger/Ranger.hpp
+	<cstring>
+
+1684374169 source:/home/lucas/Documents/GitHub/Exercise-in-Program-C-/EX_45/PowerRanger/Ranger.cpp
+	<iostream>
+	<cstring>
+	"Ranger.hpp"
+

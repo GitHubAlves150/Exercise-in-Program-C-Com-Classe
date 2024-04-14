@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1695947252 source:c:\users\lucas.alves\downloads\exercise-in-program-c-com-classe\escrevendo_em_um_arquivo\gravando_em_um_arquivo_de_acesso_aleatório\clientdata.cpp
+	"ClientData.hpp"
+	"Includes.hpp"
+	<string>
+
+1695984615 source:c:\users\lucas.alves\downloads\exercise-in-program-c-com-classe\escrevendo_em_um_arquivo\gravando_em_um_arquivo_de_acesso_aleatório\main.cpp
+	<iostream>
+	<iomanip>
+	<fstream>
+	<cstdlib>
+	"ClientData.hpp"
+
+1695947243 c:\users\lucas.alves\downloads\exercise-in-program-c-com-classe\escrevendo_em_um_arquivo\gravando_em_um_arquivo_de_acesso_aleatório\clientdata.hpp
+	<string>
+
+1695946805 c:\users\lucas.alves\downloads\exercise-in-program-c-com-classe\escrevendo_em_um_arquivo\gravando_em_um_arquivo_de_acesso_aleatório\includes.hpp
+	<iostream>
+	<iomanip>
+	<fstream>
+	<string>
+	<cstring>
+	<cstdlib>
+

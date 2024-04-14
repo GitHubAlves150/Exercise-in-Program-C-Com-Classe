@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1674072425 source:c:\users\senor\documents\my_pc\exercise in program c++\pi_2_m5\memory.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"Memory.hpp"
+
+1674073280 source:c:\users\senor\documents\my_pc\exercise in program c++\pi_2_m5\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"Memory.hpp"
+
+1674072387 c:\users\senor\documents\my_pc\exercise in program c++\pi_2_m5\memory.hpp
+	<iostream>
+
+1674073280 source:c:\users\lucas alves\documents\my_pc\exercise in program c++\pi_2_m5\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"Memory.hpp"
+
+1674072387 c:\users\lucas alves\documents\my_pc\exercise in program c++\pi_2_m5\memory.hpp
+	<iostream>
+
+1674073654 source:c:\users\lucas alves\documents\my_pc\exercise in program c++\pi_2_m5\memory.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"Memory.hpp"
+

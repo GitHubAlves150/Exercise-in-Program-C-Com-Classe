@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1674513128 source:c:\users\senor\documents\my_pc\exercise in program c++\ex_19\main.cpp
+	<cstdlib>
+	<iostream>
+	<string>
+	"func.hpp"
+
+1674513103 c:\users\senor\documents\my_pc\exercise in program c++\ex_19\func.hpp
+	<string>
+
+1674513103 source:c:\users\senor\documents\my_pc\exercise in program c++\ex_19\func.cpp
+	<iostream>
+	<string>
+	"func.hpp"
+

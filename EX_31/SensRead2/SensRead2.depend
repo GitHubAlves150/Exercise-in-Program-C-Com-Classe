@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1680037536 source:c:\users\lucas alves\documents\my_pc\exercise in program c++\ex_31\sensread2\senscurrent.cpp
+	<iostream>
+	"SensCurrent.hpp"
+
+1680036677 c:\users\lucas alves\documents\my_pc\exercise in program c++\ex_31\sensread2\senscurrent.hpp
+	<iostream>
+	<string>
+
+1680037553 source:c:\users\lucas alves\documents\my_pc\exercise in program c++\ex_31\sensread2\main.cpp
+	<iostream>
+	<iomanip>
+	"SensCurrent.hpp"
+

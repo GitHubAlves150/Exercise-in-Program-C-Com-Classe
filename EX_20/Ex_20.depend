@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1674523815 source:c:\users\senor\documents\my_pc\exercise in program c++\ex_20\main.cpp
+	<iostream>
+	<cstdlib>
+	"ProductName.hpp"
+
+1674523195 source:c:\users\senor\documents\my_pc\exercise in program c++\ex_20\productname.cpp
+	<cstring>
+	<iostream>
+	"ProductName.hpp"
+
+1674522712 c:\users\senor\documents\my_pc\exercise in program c++\ex_20\productname.hpp
+	"ProductPrice.hpp"
+
+1674523553 c:\users\senor\documents\my_pc\exercise in program c++\ex_20\productprice.hpp
+
+1674523485 source:c:\users\senor\documents\my_pc\exercise in program c++\ex_20\productprice.cpp
+	<iostream>
+	"ProductPrice.hpp"
+
+1679530840 source:c:\users\lucas alves\documents\my_pc\exercise in program c++\ex_20\main.cpp
+	<iostream>
+	<cstdlib>
+	"ProductName.hpp"
+
+1674522712 c:\users\lucas alves\documents\my_pc\exercise in program c++\ex_20\productname.hpp
+	"ProductPrice.hpp"
+
+1674523553 c:\users\lucas alves\documents\my_pc\exercise in program c++\ex_20\productprice.hpp
+
+1674523195 source:c:\users\lucas alves\documents\my_pc\exercise in program c++\ex_20\productname.cpp
+	<cstring>
+	<iostream>
+	"ProductName.hpp"
+
+1674523485 source:c:\users\lucas alves\documents\my_pc\exercise in program c++\ex_20\productprice.cpp
+	<iostream>
+	"ProductPrice.hpp"
+

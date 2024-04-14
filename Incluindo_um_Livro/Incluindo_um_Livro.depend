@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1696211705 source:/home/lucas/Documentos/GitHub/Exercise-in-Program-C-Com-Classe/Incluindo_um_Livro/main.cpp
+	"includes.hpp"
+
+1696041430 /home/lucas/Documentos/GitHub/Exercise-in-Program-C-Com-Classe/Incluindo_um_Livro/includes.hpp
+	<iostream>
+	<iomanip>
+	<fstream>
+	<cstdlib>
+	<string>
+
+1696214121 source:/home/lucas/Documentos/GitHub/Exercise-in-Program-C-Com-Classe/Incluindo_um_Livro/Biblioteca.cpp
+	"Biblioteca.hpp"
+
+1696214160 /home/lucas/Documentos/GitHub/Exercise-in-Program-C-Com-Classe/Incluindo_um_Livro/Biblioteca.hpp
+	"includes.hpp"
+
+1696289909 source:c:\users\lucas.alves\downloads\exercise-in-program-c-com-classe\incluindo_um_livro\biblioteca.cpp
+	"Biblioteca.hpp"
+
+1696288655 c:\users\lucas.alves\downloads\exercise-in-program-c-com-classe\incluindo_um_livro\biblioteca.hpp
+	"includes.hpp"
+
+1696284271 c:\users\lucas.alves\downloads\exercise-in-program-c-com-classe\incluindo_um_livro\includes.hpp
+	<iostream>
+	<iomanip>
+	<fstream>
+	<cstdlib>
+	<string>
+	<cstring>
+
+1696280789 source:c:\users\lucas.alves\downloads\exercise-in-program-c-com-classe\incluindo_um_livro\main.cpp
+	"includes.hpp"
+	"Biblioteca.hpp"
+

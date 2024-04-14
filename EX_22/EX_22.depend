@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1674788357 source:c:\users\senor\documents\my_pc\exercise in program c++\ex_22\main.cpp
+	<iostream>
+	<cstdlib>
+	"Potencia.hpp"
+
+1674788194 c:\users\senor\documents\my_pc\exercise in program c++\ex_22\potencia.hpp
+
+1674788484 source:c:\users\senor\documents\my_pc\exercise in program c++\ex_22\potencia.cpp
+	<iostream>
+	"Potencia.hpp"
+

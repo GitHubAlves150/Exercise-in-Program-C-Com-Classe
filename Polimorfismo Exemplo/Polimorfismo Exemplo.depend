@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1707270912 source:/home/desenvolvimento/Documents/GitHub/Exercise-in-Program-C-Com-Classe/Polimorfismo Exemplo/main.cpp
+	<iostream>
+
+1707274509 source:/home/desenvolvimento/Documents/GitHub/Exercise-in-Program-C-Com-Classe/Polimorfismo Exemplo/Account.cpp
+	<iostream>
+	"Account.hpp"
+
+1707274428 /home/desenvolvimento/Documents/GitHub/Exercise-in-Program-C-Com-Classe/Polimorfismo Exemplo/Account.hpp
+	<iostream>
+
+1707319534 source:c:\users\lucas.alves\downloads\exercise-in-program-c-com-classe\polimorfismo exemplo\account.cpp
+	<iostream>
+	"Account.hpp"
+
+1707386783 c:\users\lucas.alves\downloads\exercise-in-program-c-com-classe\polimorfismo exemplo\account.hpp
+	<iostream>
+
+1707386736 source:c:\users\lucas.alves\downloads\exercise-in-program-c-com-classe\polimorfismo exemplo\cheskingaccount.cpp
+	<iostream>
+	"CheskingAccount.hpp"
+
+1707386584 c:\users\lucas.alves\downloads\exercise-in-program-c-com-classe\polimorfismo exemplo\cheskingaccount.hpp
+	"Account.hpp"
+
+1707321943 source:c:\users\lucas.alves\downloads\exercise-in-program-c-com-classe\polimorfismo exemplo\main.cpp
+	<iostream>
+	"CheskingAccount.hpp"
+	"SavingAccount.hpp"
+
+1707386738 source:c:\users\lucas.alves\downloads\exercise-in-program-c-com-classe\polimorfismo exemplo\savingaccount.cpp
+	<iostream>
+	"SavingAccount.hpp"
+
+1707386659 c:\users\lucas.alves\downloads\exercise-in-program-c-com-classe\polimorfismo exemplo\savingaccount.hpp
+	"Account.hpp"
+

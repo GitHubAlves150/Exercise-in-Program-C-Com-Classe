@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1674843160 source:c:\users\senor\documents\my_pc\exercise in program c++\ex_24\increment.cpp
+	<iostream>
+	"Increment.hpp"
+
+1674843215 c:\users\senor\documents\my_pc\exercise in program c++\ex_24\increment.hpp
+
+1674842648 source:c:\users\senor\documents\my_pc\exercise in program c++\ex_24\main.cpp
+	<iostream>
+	"Increment.hpp"
+

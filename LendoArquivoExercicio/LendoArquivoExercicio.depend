@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1694948783 source:/home/lucas/Documentos/GitHub/Exercise-in-Program-C-Com-Classe/LendoArquivoExercicio/main.cpp
+	<iostream>
+	<cstdlib>
+	<fstream>
+	<string>
+

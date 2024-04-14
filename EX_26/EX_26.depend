@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1674904074 source:c:\users\senor\documents\my_pc\exercise in program c++\ex_26\main.cpp
+	<iostream>
+	"Hipo.hpp"
+
+1674904074 c:\users\senor\documents\my_pc\exercise in program c++\ex_26\hipo.hpp
+	<cmath>
+
+1674904210 source:c:\users\senor\documents\my_pc\exercise in program c++\ex_26\hipo.cpp
+	<iostream>
+	"Hipo.hpp"
+

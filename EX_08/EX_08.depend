@@ -1,0 +1,69 @@
+# depslib dependency file v1.0
+1672960199 source:c:\users\lucas.alves\documents\ex_08\library.cpp
+	<iostream>
+	"library.hpp"
+	<iomanip>
+	<cstdlib>
+	<ctime>
+
+1672960199 c:\users\lucas.alves\documents\ex_08\library.hpp
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<ctime>
+
+1672960257 source:c:\users\lucas.alves\documents\ex_08\main.cpp
+	<iostream>
+	"library.hpp"
+
+1672960960 source:c:\users\senor\documents\my_pc\exercise in program c++\ex_08\ex_08\library.cpp
+	<iostream>
+	"library.hpp"
+	<iomanip>
+	<cstdlib>
+	<ctime>
+
+1672960944 c:\users\senor\documents\my_pc\exercise in program c++\ex_08\ex_08\library.hpp
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<ctime>
+
+1672960922 source:c:\users\senor\documents\my_pc\exercise in program c++\ex_08\ex_08\main.cpp
+	<iostream>
+	"library.hpp"
+
+1672960960 source:c:\users\senor\documents\my_pc\exercise in program c++\ex_08\library.cpp
+	<iostream>
+	"library.hpp"
+	<iomanip>
+	<cstdlib>
+	<ctime>
+
+1672960944 c:\users\senor\documents\my_pc\exercise in program c++\ex_08\library.hpp
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<ctime>
+
+1672960922 source:c:\users\senor\documents\my_pc\exercise in program c++\ex_08\main.cpp
+	<iostream>
+	"library.hpp"
+
+1672960960 source:c:\users\lucas alves\documents\my_pc\exercise in program c++\ex_08\library.cpp
+	<iostream>
+	"library.hpp"
+	<iomanip>
+	<cstdlib>
+	<ctime>
+
+1672960944 c:\users\lucas alves\documents\my_pc\exercise in program c++\ex_08\library.hpp
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<ctime>
+
+1672960922 source:c:\users\lucas alves\documents\my_pc\exercise in program c++\ex_08\main.cpp
+	<iostream>
+	"library.hpp"
+

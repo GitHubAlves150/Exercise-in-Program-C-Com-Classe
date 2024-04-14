@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1692113826 source:c:\users\lucas.alves\downloads\exercise-in-program-c-com-classe\sobrecargasdeoperadores\main.cpp
+	<iostream>
+	"Vet3D.h"
+
+1692113844 source:c:\users\lucas.alves\downloads\exercise-in-program-c-com-classe\sobrecargasdeoperadores\src\vet3d.cpp
+	"Vet3D.h"
+
+1692113844 c:\users\lucas.alves\downloads\exercise-in-program-c-com-classe\sobrecargasdeoperadores\include\vet3d.h
+

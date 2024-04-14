@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1699481089 source:c:\users\lucas.alves\downloads\exercise-in-program-c-com-classe\templateexemplobasico\templatebasico\main.cpp
+	<iostream>
+	"TemplateBasico.hpp"
+
+1699440766 c:\users\lucas.alves\downloads\exercise-in-program-c-com-classe\templateexemplobasico\templatebasico\templatebasico.hpp
+	"TemplateBasico.cpp"
+	<iostream>
+
+1699440698 c:\users\lucas.alves\downloads\exercise-in-program-c-com-classe\templateexemplobasico\templatebasico\templatebasico.cpp
+	"TemplateBasico.hpp"
+	<iostream>
+
+1699440698 source:c:\users\lucas.alves\downloads\exercise-in-program-c-com-classe\templateexemplobasico\templatebasico\templatebasico.cpp
+	"TemplateBasico.hpp"
+	<iostream>
+

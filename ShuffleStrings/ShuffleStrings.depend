@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1689308647 source:/home/lucas/Documents/GitHub/Exercise-in-Program-C-/ShuffleStrings/main.cpp
+	<iostream>
+	"ShuffleStrings.h"
+
+1689307720 /home/lucas/Documents/GitHub/Exercise-in-Program-C-/ShuffleStrings/include/ShuffleStrings.h
+	<iostream>
+	<cstdlib>
+	<ctime>
+
+1689308174 source:/home/lucas/Documents/GitHub/Exercise-in-Program-C-/ShuffleStrings/src/ShuffleStrings.cpp
+	"ShuffleStrings.h"
+

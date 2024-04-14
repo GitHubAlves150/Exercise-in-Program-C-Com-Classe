@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1710298345 source:/home/desenvolvimento/Documents/GitHub/Exercise-in-Program-C-Com-Classe/Tratamento_de_execoes /Limitbits.cpp
+	<iostream>
+	"Limitbits.hpp"
+
+1710298398 /home/desenvolvimento/Documents/GitHub/Exercise-in-Program-C-Com-Classe/Tratamento_de_execoes /Limitbits.hpp
+	<stdexcept>
+	<cstring>
+
+1710299222 source:/home/desenvolvimento/Documents/GitHub/Exercise-in-Program-C-Com-Classe/Tratamento_de_execoes /main.cpp
+	<iostream>
+	"Limitbits.hpp"
+	<stdexcept>
+

@@ -1,0 +1,75 @@
+# depslib dependency file v1.0
+1706375895 source:c:\users\teste\documents\github\exercise-in-program-c-com-classe\projeto_polimorfismo\main.cpp
+	<iostream>
+	<iomanip>
+	"Cursos.hpp"
+	"CursosProprio.hpp"
+	"CursoAfiliado.hpp"
+	"CursoCoproduzido.hpp"
+
+1706365011 source:c:\users\teste\documents\github\exercise-in-program-c-com-classe\projeto_polimorfismo\cursos.cpp
+	<iostream>
+	"Cursos.hpp"
+
+1706364328 c:\users\teste\documents\github\exercise-in-program-c-com-classe\projeto_polimorfismo\cursos.hpp
+	<string>
+
+1706365065 source:c:\users\teste\documents\github\exercise-in-program-c-com-classe\projeto_polimorfismo\cursosproprio.cpp
+	<iostream>
+	"CursosProprio.hpp"
+
+1706362253 c:\users\teste\documents\github\exercise-in-program-c-com-classe\projeto_polimorfismo\cursosproprio.hpp
+	"Cursos.hpp"
+
+1706373040 source:c:\users\teste\documents\github\exercise-in-program-c-com-classe\projeto_polimorfismo\cursoafiliado.cpp
+	<iostream>
+	"CursoAfiliado.hpp"
+
+1706371363 c:\users\teste\documents\github\exercise-in-program-c-com-classe\projeto_polimorfismo\cursoafiliado.hpp
+	"Cursos.hpp"
+
+1706373225 source:c:\users\teste\documents\github\exercise-in-program-c-com-classe\projeto_polimorfismo\cursocoproduzido.cpp
+	<iostream>
+	"CursoCoproduzido.hpp"
+
+1706372842 c:\users\teste\documents\github\exercise-in-program-c-com-classe\projeto_polimorfismo\cursocoproduzido.hpp
+	<iostream>
+	"CursoAfiliado.hpp"
+
+1707089988 source:/home/desenvolvimento/Documents/GitHub/Exercise-in-Program-C-Com-Classe/Projeto_Polimorfismo/Cursos.cpp
+	<iostream>
+	"Cursos.hpp"
+
+1707089988 /home/desenvolvimento/Documents/GitHub/Exercise-in-Program-C-Com-Classe/Projeto_Polimorfismo/Cursos.hpp
+	<string>
+
+1707089988 source:/home/desenvolvimento/Documents/GitHub/Exercise-in-Program-C-Com-Classe/Projeto_Polimorfismo/main.cpp
+	<iostream>
+	<iomanip>
+	"Cursos.hpp"
+	"CursosProprio.hpp"
+	"CursoAfiliado.hpp"
+	"CursoCoproduzido.hpp"
+
+1707089988 /home/desenvolvimento/Documents/GitHub/Exercise-in-Program-C-Com-Classe/Projeto_Polimorfismo/CursosProprio.hpp
+	"Cursos.hpp"
+
+1707089988 /home/desenvolvimento/Documents/GitHub/Exercise-in-Program-C-Com-Classe/Projeto_Polimorfismo/CursoAfiliado.hpp
+	"Cursos.hpp"
+
+1707089988 /home/desenvolvimento/Documents/GitHub/Exercise-in-Program-C-Com-Classe/Projeto_Polimorfismo/CursoCoproduzido.hpp
+	<iostream>
+	"CursoAfiliado.hpp"
+
+1707089988 source:/home/desenvolvimento/Documents/GitHub/Exercise-in-Program-C-Com-Classe/Projeto_Polimorfismo/CursoAfiliado.cpp
+	<iostream>
+	"CursoAfiliado.hpp"
+
+1707089988 source:/home/desenvolvimento/Documents/GitHub/Exercise-in-Program-C-Com-Classe/Projeto_Polimorfismo/CursoCoproduzido.cpp
+	<iostream>
+	"CursoCoproduzido.hpp"
+
+1707089988 source:/home/desenvolvimento/Documents/GitHub/Exercise-in-Program-C-Com-Classe/Projeto_Polimorfismo/CursosProprio.cpp
+	<iostream>
+	"CursosProprio.hpp"
+

@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1673916289 source:c:\users\senor\documents\my_pc\exercise in program c++\ex_16\destrutor.cpp
+	<iostream>
+	"Destrutor.hpp"
+
+1673915923 c:\users\senor\documents\my_pc\exercise in program c++\ex_16\destrutor.hpp
+	<iostream>
+
+1673917622 source:c:\users\senor\documents\my_pc\exercise in program c++\ex_16\main.cpp
+	<iostream>
+	<cstdlib>
+	"Destrutor.hpp"
+

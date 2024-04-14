@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1711589552 source:/home/desenvolvimento/Documents/GitHub/Exercise-in-Program-C-Com-Classe/RegistroSensoriamento/main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+

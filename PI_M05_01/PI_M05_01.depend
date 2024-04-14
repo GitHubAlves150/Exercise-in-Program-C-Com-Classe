@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1673824351 source:c:\users\senor\documents\my_pc\exercise in program c++\pi_m05_01\main.cpp
+	<iostream>
+	"Baskara.hpp"
+
+1673824788 c:\users\senor\documents\my_pc\exercise in program c++\pi_m05_01\baskara.hpp
+	<iostream>
+	<iomanip>
+	<math.h>
+
+1673825033 source:c:\users\senor\documents\my_pc\exercise in program c++\pi_m05_01\baskara.cpp
+	<iostream>
+	<math.h>
+	<iomanip>
+	"Baskara.hpp"
+

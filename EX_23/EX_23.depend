@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1674790193 source:c:\users\senor\documents\my_pc\exercise in program c++\ex_23\exemplo1.cpp
+	"Exemplo1.hpp"
+
+1674790217 c:\users\senor\documents\my_pc\exercise in program c++\ex_23\exemplo1.hpp
+	<cmath>
+
+1674790110 source:c:\users\senor\documents\my_pc\exercise in program c++\ex_23\main.cpp
+	<iostream>
+	"Exemplo1.hpp"
+	"Exemplo2.hpp"
+
+1674790217 c:\users\senor\documents\my_pc\exercise in program c++\ex_23\exemplo2.hpp
+	<cmath>
+
+1674790239 source:c:\users\senor\documents\my_pc\exercise in program c++\ex_23\exemplo2.cpp
+	"Exemplo1.hpp"
+	"Exemplo2.hpp"
+

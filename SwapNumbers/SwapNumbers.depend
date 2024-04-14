@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1698768606 source:c:\users\lucas.alves\downloads\exercise-in-program-c-com-classe\swapnumbers\main.cpp
+	<iostream>
+	<string>
+

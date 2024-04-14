@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1708307230 source:/home/desenvolvimento/Documents/GitHub/Exercise-in-Program-C-Com-Classe/Sobacarga de operadores(produto escalar)/main.cpp
+	<iostream>
+	"ProdutoEscalar.hpp"
+
+1708307070 /home/desenvolvimento/Documents/GitHub/Exercise-in-Program-C-Com-Classe/Sobacarga de operadores(produto escalar)/ProdutoEscalar.hpp
+
+1708307475 source:/home/desenvolvimento/Documents/GitHub/Exercise-in-Program-C-Com-Classe/Sobacarga de operadores(produto escalar)/ProdutoEscalar.cpp
+	<iostream>
+	"ProdutoEscalar.hpp"
+

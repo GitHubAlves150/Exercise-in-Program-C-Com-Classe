@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1679534070 source:c:\users\lucas alves\documents\my_pc\exercise in program c++\ex_29\printvalor.cpp
+	"PrintValor.hpp"
+
+1679534795 c:\users\lucas alves\documents\my_pc\exercise in program c++\ex_29\printvalor.hpp
+	<iostream>
+
+1679534856 source:c:\users\lucas alves\documents\my_pc\exercise in program c++\ex_29\main.cpp
+	<iostream>
+	"PrintValor.hpp"
+

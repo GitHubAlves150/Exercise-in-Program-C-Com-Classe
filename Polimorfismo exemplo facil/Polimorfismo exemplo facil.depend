@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1707433767 source:c:\users\lucas.alves\downloads\exercise-in-program-c-com-classe\polimorfismo exemplo facil\main.cpp
+	<iostream>
+	<cstring>
+	"Derivada1.hpp"
+	"base.hpp"
+
+1707433804 source:c:\users\lucas.alves\downloads\exercise-in-program-c-com-classe\polimorfismo exemplo facil\base.cpp
+	<iostream>
+	<cstring>
+	"base.hpp"
+
+1707473176 c:\users\lucas.alves\downloads\exercise-in-program-c-com-classe\polimorfismo exemplo facil\base.hpp
+	<cstring>
+
+1707433599 source:c:\users\lucas.alves\downloads\exercise-in-program-c-com-classe\polimorfismo exemplo facil\derivada1.cpp
+	<iostream>
+	<cstring>
+	"Derivada1.hpp"
+
+1707433454 c:\users\lucas.alves\downloads\exercise-in-program-c-com-classe\polimorfismo exemplo facil\derivada1.hpp
+	"base.hpp"
+	<cstring>
+
+1707433438 source:c:\users\lucas.alves\downloads\exercise-in-program-c-com-classe\polimorfismo exemplo facil\derivada2.cpp
+	<iostream>
+	"Derivada2.hpp"
+	<cstring>
+
+1707433454 c:\users\lucas.alves\downloads\exercise-in-program-c-com-classe\polimorfismo exemplo facil\derivada2.hpp
+	"base.hpp"
+	<cstring>
+

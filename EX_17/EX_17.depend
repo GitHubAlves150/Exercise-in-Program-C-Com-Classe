@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1673919483 source:c:\users\senor\documents\my_pc\exercise in program c++\ex_17\main.cpp
+	<iostream>
+	<cstdlib>
+	"ClassEx.hpp"
+
+1673919044 source:c:\users\senor\documents\my_pc\exercise in program c++\ex_17\classex.cpp
+	"ClassEx.hpp"
+
+1673919064 c:\users\senor\documents\my_pc\exercise in program c++\ex_17\classex.hpp
+	<iostream>
+

@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1700439904 source:/home/lucas/Documentos/GitHub/Exercise-in-Program-C-Com-Classe/Template Pilha com menu/main.cpp
+	<cctype>
+	<cstdio>
+	<iostream>
+	<string>
+	"TemplatePilha.hpp"
+	"EfeitoMenu.hpp"
+
+1700441391 /home/lucas/Documentos/GitHub/Exercise-in-Program-C-Com-Classe/Template Pilha com menu/TemplatePilha.hpp
+
+1700359881 /home/lucas/Documentos/GitHub/Exercise-in-Program-C-Com-Classe/Template Pilha com menu/EfeitoMenu.hpp
+	"TemplatePilha.hpp"
+
+1700477993 source:c:\users\lucas.alves\downloads\exercise-in-program-c-com-classe\template pilha com menu\main.cpp
+	<cctype>
+	<cstdio>
+	<iostream>
+	<string>
+	"TemplatePilha.hpp"
+	"EfeitoMenu.hpp"
+
+1700477778 c:\users\lucas.alves\downloads\exercise-in-program-c-com-classe\template pilha com menu\templatepilha.hpp
+	<iostream>
+
+1700473549 c:\users\lucas.alves\downloads\exercise-in-program-c-com-classe\template pilha com menu\efeitomenu.hpp
+	"TemplatePilha.hpp"
+

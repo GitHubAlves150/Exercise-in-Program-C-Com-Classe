@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1678328060 source:c:\users\lucas alves\documents\my_pc\exercise in program c++\tarefa 01 - criando classes\ex_29\main.cpp
+	<iostream>
+	"Components.hpp"
+
+1678326753 c:\users\lucas alves\documents\my_pc\exercise in program c++\tarefa 01 - criando classes\ex_29\components.hpp
+
+1678328357 source:c:\users\lucas alves\documents\my_pc\exercise in program c++\tarefa 01 - criando classes\ex_29\components.cpp
+	<iostream>
+	<cstring>
+	"Components.hpp"
+

@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1707688501 source:/home/desenvolvimento/Documents/GitHub/Exercise-in-Program-C-Com-Classe/Polimorfism_teste/main.cpp
+	<iostream>
+
+1707688990 source:/home/desenvolvimento/Documents/GitHub/Exercise-in-Program-C-Com-Classe/Polimorfism_teste/Base.cpp
+	<iostream>
+	"Base.hpp"
+
+1707689206 /home/desenvolvimento/Documents/GitHub/Exercise-in-Program-C-Com-Classe/Polimorfism_teste/Base.hpp
+
+1707688995 source:/home/desenvolvimento/Documents/GitHub/Exercise-in-Program-C-Com-Classe/Polimorfism_teste/Derivada.cpp
+	<iostream>
+	"Derivada.hpp"
+
+1707688990 /home/desenvolvimento/Documents/GitHub/Exercise-in-Program-C-Com-Classe/Polimorfism_teste/Derivada.hpp
+	"Base.hpp"
+

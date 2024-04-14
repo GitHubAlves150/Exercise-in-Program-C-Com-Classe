@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1708310965 source:/home/desenvolvimento/Documents/GitHub/Exercise-in-Program-C-Com-Classe/Sobrecarga de operadores(mult_som_sub)/main.cpp
+	<iostream>
+	"sobrecargaOperadores.hpp"
+
+1708309943 source:/home/desenvolvimento/Documents/GitHub/Exercise-in-Program-C-Com-Classe/Sobrecarga de operadores(mult_som_sub)/sobrecargaOperadores.cpp
+	<iostream>
+	"sobrecargaOperadores.hpp"
+
+1708293583 /home/desenvolvimento/Documents/GitHub/Exercise-in-Program-C-Com-Classe/Sobrecarga de operadores(mult_som_sub)/sobrecargaOperadores.hpp
+

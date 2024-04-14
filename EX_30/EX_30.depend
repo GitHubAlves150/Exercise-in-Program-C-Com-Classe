@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1679612340 source:c:\users\lucas alves\documents\my_pc\exercise in program c++\ex_30\classeexemplo.cpp
+	"ClasseExemplo.hpp"
+
+1679612350 c:\users\lucas alves\documents\my_pc\exercise in program c++\ex_30\classeexemplo.hpp
+	<iostream>
+
+1679611697 source:c:\users\lucas alves\documents\my_pc\exercise in program c++\ex_30\main.cpp
+	<iostream>
+	"ClasseExemplo.hpp"
+

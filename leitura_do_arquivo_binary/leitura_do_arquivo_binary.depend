@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1695206938 source:c:\users\lucas.alves\downloads\exercise-in-program-c-com-classe\leitura_do_arquivo_binary\main.cpp
+	<iostream>
+	<iostream>
+	<fstream>
+	"Temperatura.hpp"
+	<cstdlib>
+	<iomanip>
+
+1695120383 source:c:\users\lucas.alves\downloads\exercise-in-program-c-com-classe\leitura_do_arquivo_binary\temperatura.cpp
+	"Temperatura.hpp"
+
+1695120365 c:\users\lucas.alves\downloads\exercise-in-program-c-com-classe\leitura_do_arquivo_binary\temperatura.hpp
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1710181533 source:/home/desenvolvimento/Documents/GitHub/Exercise-in-Program-C-Com-Classe/tratamento de execoes/main.cpp
+	<iostream>
+	<vector>
+	<stdexcept>
+

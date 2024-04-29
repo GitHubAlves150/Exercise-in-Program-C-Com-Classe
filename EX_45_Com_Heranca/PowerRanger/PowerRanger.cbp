@@ -32,6 +32,7 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
+		<Unit filename="../../../C-Com-Classe/Teste/Funbc.hpp" />
 		<Unit filename="Mighty_Morphin.cpp" />
 		<Unit filename="Mighty_Morphin.hpp" />
 		<Unit filename="Ranger.cpp" />
